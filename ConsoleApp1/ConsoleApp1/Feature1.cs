@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         public void Add()
         {
-            // a+b=10;
+            // a+c =100 +b;
         }
     }
 }
