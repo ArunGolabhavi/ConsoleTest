@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Program
+    class Feature1
     {
-        static void Main(string[] args)
-        {
-            // this is code added  in GIT HUB
-            // code added in VS
-        }
     }
 }
