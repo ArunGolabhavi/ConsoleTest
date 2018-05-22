@@ -8,5 +8,9 @@ namespace ConsoleApp1
 {
     class Feature1
     {
+        public void Add()
+        {
+            // a+b=10;
+        }
     }
 }
